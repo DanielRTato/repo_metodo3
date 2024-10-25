@@ -12,3 +12,7 @@ Ahora para clonamos ***nuestro*** respositorio copiado con fork
 A través de la consola de comandos escribimos:
 cd para movernos al directorio donde queremos clonarlo
 git clone https://github.com/danielcastelao/pruebasReadme  para clonar finalmente el repositorio
+```
+![Captura de pantalla de la consola](https://i.imgur.com/X45XMwk.png)
+
+Finalmente desde IntelliJ le damos a abrir el proyecto y listo!
